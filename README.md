@@ -5,6 +5,7 @@ This repository contains the files for the assignment. Here are the features I a
 * Plotting Price instead of Alcohol Content
 * Adding a banner picture
 * Allowing searching among all countries
+* Changing the number of bins to be equal to the price range (one bin per price)
 
 Links: 
 * [Application](https://raywu.shinyapps.io/rwu-bcl/)
